@@ -1,5 +1,7 @@
 # omnifood
-Copyright Jonas Schmedtman
+Copyright Jonas Schmedtmann
+
+
 Landing page with HTML, CSS, JavaScript
 
 
